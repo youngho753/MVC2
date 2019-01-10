@@ -15,7 +15,7 @@
 	Member mb = new Member();
 	mb.setUserId(userId);
 	mb.setPwd(pwd);
-	mb.setGender(gender);asdasd
+	mb.setGender(gender);
 	mb.setEmail(email);
 	mb.setZipCode(zipCode);
 	mb.setAddr(addr);
