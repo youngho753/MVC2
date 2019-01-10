@@ -1,0 +1,183 @@
+
+#wrap {
+    width : 100%;
+    background-color :white;
+}
+
+header {
+    width : 100%;
+    height : 50px;
+}
+
+nav {
+    width : 100%;
+    height : 150px;
+}
+
+aside {
+    width : 100%;
+    height : 50px;
+}
+nav img{
+
+    margin : auto 0;
+    height : 72px;
+}
+.nav_div {
+    border: 1px solid lightgray;
+    float: left;
+    width: 33%;
+    max-width: 300px;
+    border-radius: 10px;
+    position : relative;
+    
+}
+article {
+    width : 100%;
+    height : 500px;
+    float : left;
+    margin-top: 100px;
+}
+
+footer {
+    width : 100%;
+    height : 100px;
+    clear : both;
+}
+
+header img {
+    height : 50px;
+    display : block;
+    float : left;
+}
+
+
+body {
+    margin : 0px;
+    width : 100%;
+}
+
+header .join{
+    text-align: right;
+    float : right;
+   margin-left: 5px;
+}
+
+p {
+    text-align: right;
+    display : inline-block;
+}
+
+nav table td {
+}
+h2 {
+    margin-top : 0px;
+}
+
+.vertical_middle {
+    vertical-align: middle;
+}
+
+
+
+.inline{
+    display : center;
+}
+
+nav div div {
+    float : left;
+    height : 72px;
+}
+article div{
+    float : left;
+    margin-right : 20px;
+  
+}
+
+
+#right {
+    float: right;
+}
+
+
+
+.br {
+    clear : both;
+}
+
+section {   
+    width : 100%;
+    height : 1700px;
+    float : left;
+}
+
+.tripImage {
+    width : 335px;
+    height : 418px;
+}
+
+.sikdangImage {
+    width : 290px;
+    height : 192px;
+}
+
+
+
+#aside_ul {
+    
+}
+
+aside ul {
+     padding-top:10px;
+    height: 50px;
+}
+aside ul{
+    text-align: center;
+}
+aside ul li {
+            display:inline;                        
+            border-left:1px solid #999;            
+            font:bold 30px Dotum;                  
+            padding:0 10px;                       
+        }
+        aside ul li:first-child{border-left:none;}     
+
+
+
+
+
+
+aside a:link {
+    text-decoration: none;
+    color: black;
+}
+aside a:visited{
+    text-decoration: none;
+    color: black;
+}
+aside a:active{
+    
+}
+aside a:hover{
+    color: black;
+    text-decoration-line: underline
+}
+
+
+nav span {
+    width : 200px;
+    height : 50px;
+    display: inline;
+    text-align: center;
+    vertical-align: middle;
+    width : 100%;
+}
+
+.nav_div2 {
+    line-height: 74px;
+        width : 200px;
+    vertical-align: middle;
+    font-size: 20px;
+    text-align : center;
+    color : black;
+}
